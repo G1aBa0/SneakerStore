@@ -1,6 +1,6 @@
 ## Đề tài: Web bán giày Sneaker (SneakerStore) 
 ## 1. Mục đích: Mở của hàng bán giày Online
-##     - Mục tiêu: Bán giày
+##     ** Mục tiêu: Bán giày**
 ##     - Mục tiêu: Tìm kiếm sản phẩm
 ##     - Mục tiêu: Xem thông tin sản phẩm
 ## 2. Công nghệ: Visual Studio 2022
