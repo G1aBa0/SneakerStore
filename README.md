@@ -5,6 +5,7 @@
      Mục tiêu: Xem thông tin sản phẩm
 ## 2. Công nghệ: 
     Visual Studio 2022
+[Visual Studio 2022](https://visualstudio.microsoft.com/)
 ## 3. Phân công công việc: 
 ### Sang: Contact([Facebook](https://facebook.com/sangnguyen01678/), [Git](https://github.com/tansang1230/)) 
      Trang chủ/Danh sách sản phẩm
