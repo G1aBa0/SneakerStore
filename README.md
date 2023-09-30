@@ -9,10 +9,14 @@
 ### Sang: 
      Trang chủ/Danh sách sản phẩm
 Contact
-     [Facebook](https://facebook.com/sangnguyen01678/), [Git](https://github.com/tansang1230/)) 
+     [Facebook](https://facebook.com/sangnguyen01678/)
+     ---
+     [Git](https://github.com/tansang1230/)) 
 ### Bảo:
      Đăng ký/Đăng nhập/Phân quyền
 Contact
-      ([Facebook](https://facebook.com/beoxx.2804/) [Git](https://github.com/G1aBa0/))
+      ([Facebook](https://facebook.com/beoxx.2804/)
+      ---
+      [Git](https://github.com/G1aBa0/))
 ### Thắng: 
      Chi tiết sản phẩm
