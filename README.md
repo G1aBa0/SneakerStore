@@ -6,10 +6,13 @@
 ## 2. Công nghệ: 
     Visual Studio 2022
 ## 3. Phân công công việc: 
-     Sang: Trang chủ/Danh sách sản phẩm
+### Sang
      [Facebook](https://facebook.com/sangnguyen01678/)
      [Git](https://github.com/tansang1230/) 
-     Bảo:  Đăng ký/Đăng nhập/Phân quyền
+     Trang chủ/Danh sách sản phẩm
+### Bảo
      [Facebook](https://facebook.com/beoxx.2804/)
      [Git](https://github.com/G1aBa0/) 
-     Thắng: Chi tiết sản phẩm
+     Đăng ký/Đăng nhập/Phân quyền
+### Thắng: 
+     Chi tiết sản phẩm
