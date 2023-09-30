@@ -6,6 +6,6 @@
 # 2. Công nghệ: 
     Visual Studio 2022
 # 3. Phân công công việc: 
-     **Sang**: Trang chủ/Danh sách sản phẩm
+     Sang: Trang chủ/Danh sách sản phẩm
      Bảo:  Đăng ký/Đăng nhập/Phân quyền
      Thắng: Chi tiết sản phẩm
