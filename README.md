@@ -1,4 +1,4 @@
-# Đề tài: Web bán giày Sneaker (SneakerStore) 
+#  Web bán giày Sneaker (SneakerStore) 
 ## 1. Mục đích: Mở của hàng bán giày Online
      Mục tiêu: Bán giày
      Mục tiêu: Tìm kiếm sản phẩm
